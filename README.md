@@ -3,19 +3,16 @@
 - 🔭 Hoje estudo com front-end
 - 🌱 Buscando melhorar o JavaScript
 - 😄 Ele/Dele
- <h2 align="center" style="font-size:35px;">&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;</h2>
+ <h2 align="center" style="font-size:35px;">&ensp; <i> Tecnologia </i> &ensp;</h2>
 <table>
   <tr>
-    <td>
       <img src="https://i.pinimg.com/originals/e7/3e/5d/e73e5d1ba16722f8bfbdb7290c9ed244.gif" width="200px"/>
     </td>
-    <td>
 <table>
   <tr>
     <td>
       <img src="https://i.pinimg.com/736x/80/2d/48/802d480b40f3965b5fdf54b97b3d0dbc.jpg" width="200px"/>
     </td>
-    <td>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -25,7 +22,7 @@
     </td>
   </tr>
 </table>
- <h2 align="center" style="font-size:35px;">&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;</h2>
+ <h2 align="center" style="font-size:35px;">&ensp; <i>Atividade</i> &ensp;</h2>
   <br>
   <br>
   <div>
@@ -35,7 +32,7 @@
 </div>
 
 <br><br>
-  <h2 align="center" style="font-size:35px;">&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;</h2>
+  <h2 align="center" style="font-size:35px;">&ensp; <i>Contatos Pessoais</i> &ensp;</h2>
 <div> 
   <a href="https://www.instagram.com/j.miilson02/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "Milson1326@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
