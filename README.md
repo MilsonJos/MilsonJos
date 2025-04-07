@@ -3,12 +3,7 @@
 - 🔭 Hoje estudo com front-end
 - 🌱 Buscando melhorar o JavaScript
 - 😄 Ele/Dele
-
-
  <h2 align="center" style="font-size:35px;">&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;</h2>
-
- <h2 align="center"> <i>Tecnologias</i> </h2>
-
 <table>
   <tr>
     <td>
@@ -21,7 +16,6 @@
       <img src="https://i.pinimg.com/736x/80/2d/48/802d480b40f3965b5fdf54b97b3d0dbc.jpg" width="200px"/>
     </td>
     <td>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
